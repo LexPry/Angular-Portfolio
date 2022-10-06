@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* CSS */
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
+
+* {
+  background-color: #134074;
+  color: #eef4ed;
+  outline: none;
+  box-sizing: border-box;
+  font-family: 'FiraCode', SansSerif, Monospaced, serif;
+}
+
+h1, h3, hr {
+  text-shadow: 2px 3px #0b2545;
+}

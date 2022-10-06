@@ -1,0 +1,29 @@
+.about_section {
+  text-align: center;
+}
+
+.interest-headers {
+  margin-left: 3rem;
+}
+
+.interests {
+  padding: 1rem;
+}
+
+.interests p {
+  text-align: left;
+}
+
+.desktop_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  padding-bottom: 2rem;
+}
+
+footer p {
+  text-align: center;
+}
+
+
